@@ -1,4 +1,4 @@
-Attendx : Smart attendance system
+##Attendx : Smart attendance system
 
 A face recognition-based automated attendance system that marks attendance during scheduled lectures using real-time facial detection.
 
